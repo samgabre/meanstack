@@ -5,3 +5,9 @@ const great =(name)=> {
 }
 greet('bahubali');
 greet('kattappa'); 
+
+greet('bahu');
+greet('kat'); 
+
+greet('ba');
+greet('ka'); 
